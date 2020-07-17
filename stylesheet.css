@@ -1,0 +1,25 @@
+#logo {
+background: radial-gradient(ellipse at 10% 25%, navy, teal);
+border:6px solid yellow;
+}
+
+#menu {
+background: repeating-linear-gradient(60deg, #f93800 10%, #FFB500 20%);
+border:6px solid turquoise;
+margin-top:10px;
+}
+
+#comments {
+background: linear-gradient(to bottom right, grey, silver, blue);
+border:6px solid black;
+margin-top:5px;
+height:900px;
+width:100%;
+}
+
+#form {
+border:6px solid red;
+height:700px;
+float:right;
+margin:10px;
+}
